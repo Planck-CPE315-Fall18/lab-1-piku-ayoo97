@@ -2,6 +2,11 @@
 
 ## Things to include in your README
 
+1. Jae Min Yoo (Alex Yoo)
+2. Status: complete
+3. gcc -o piku piku.s
+4. ./piku
+
 * Your name. Indicate if you go by a nickname.
 * Status of your lab
   * Complete, partially complete, incomplete
@@ -16,4 +21,3 @@ markdown syntax to format your README files in such a way that they look
 professional, and are easy to read. Use the 
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
-
